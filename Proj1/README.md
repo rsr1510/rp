@@ -28,18 +28,32 @@ This repository is a **hands-on Git learning activity** designed for **2 partici
 
 ## Roles
 
-- **Person A** &rarr Developer
-- **Person B** &rarr Team Lead/Repository Owner
+- **Person A** &#8594; Developer
+- **Person B** &#8594; Team Lead/Repository Owner
 
 ---
 
-## :pin Assumptions
+## Assumptions
 
 - Repository Name: `fintech-app`
 - Default branch: `main`
 - Both users have:
     - Git installed
     - GitHub/GitLabs accounts
+
+# Phase 1 - Project Birth
+
+## Step 1: Developer A creates project locally
+
+```bash
+mkdir fintech-app
+cd fintech-app
+echo "Fintech App - Initial Version" > README.md
+echo "console.log('Hello FinTech');"> app.js
+git init
+git add .
+git commit-m "Initial local project setup"
+```
 
 
 
