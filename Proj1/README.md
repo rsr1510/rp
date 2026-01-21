@@ -13,3 +13,13 @@ Project description
 ```bash
 
 you can copy this now
+
+---
+
+##Procedure
+- Step 1: Create README.md file
+- Step 2: Move to your repo
+- Step 3: Commit the changes
+- Step 4: Push to remote repo
+
+
