@@ -28,12 +28,12 @@ This repository is a **hands-on Git learning activity** designed for **2 partici
 
 ## Roles
 
-- **Person A** -> Developer
-- **Person B** -> Team Lead/Repository Owner
+- **Person A** &rarr Developer
+- **Person B** &rarr Team Lead/Repository Owner
 
 ---
 
-## Assumptions
+## :pin Assumptions
 
 - Repository Name: `fintech-app`
 - Default branch: `main`
