@@ -10,7 +10,6 @@ Project description
 - Feature 4
 
 ## Installation
-'''bash
+```bash
 
 you can copy this now
----
