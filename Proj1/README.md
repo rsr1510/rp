@@ -8,3 +8,7 @@ Project description
 - Feature 2
 - Feature 3
 - Feature 4
+
+## Installation
+''' bash
+you can copy this now
