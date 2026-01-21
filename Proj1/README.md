@@ -35,8 +35,8 @@ This repository is a **hands-on Git learning activity** designed for **2 partici
 
 ## Assumptions
 
-- Repository Name: fintech-app
-- Default branch: main
+- Repository Name: `fintech-app`
+- Default branch: `main`
 - Both users have:
     - Git installed
     - GitHub/GitLabs accounts
